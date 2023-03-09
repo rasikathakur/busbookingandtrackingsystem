@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "477531308103",
+    "project_id": "fir-getx-app-25211",
+    "storage_bucket": "fir-getx-app-25211.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477531308103:android:8e4109936613e2e31a3162",
+        "android_client_info": {
+          "package_name": "com.example.bustracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477531308103-3l3q16njt5qkeigaielr2ne6pvp6ngbm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9TnbTN_NpbF2GaQdGSY7AO0usD4VvoZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477531308103-3l3q16njt5qkeigaielr2ne6pvp6ngbm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
