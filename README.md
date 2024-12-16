@@ -68,11 +68,11 @@ Our **BusTracking Project** offers a robust system for:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/rasikathakur/BusTrackingProject.git
+   git clone https://github.com/rasikathakur/busbookingandtrackingsystem.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd BusTrackingProject
+   cd busbookingandtrackingsystem
    ```
 3. Install dependencies:
    ```bash
@@ -93,8 +93,8 @@ Our **BusTracking Project** offers a robust system for:
 ---
 
 ## Research Papers
-1. [Published Paper on BusTracking System](https://ijarcce.com/papers/online-bus-booking-and-tracking-system/) 
-2. [Paper on BusTracking System - Drive Link](https://docs.google.com/document/d/1t_XpI2vTaHhwvhfHSikx9vJsSMtiQQYI/edit?usp=sharing&ouid=107362093645788226897&rtpof=true&sd=true)
+1. [Published Paper on BusTracking System on IJARCEE](https://ijarcce.com/papers/online-bus-booking-and-tracking-system/) 
+2. [Paper presented at PRECONN Conference on BusTracking System - Drive Link](https://docs.google.com/document/d/1t_XpI2vTaHhwvhfHSikx9vJsSMtiQQYI/edit?usp=sharing&ouid=107362093645788226897&rtpof=true&sd=true)
 
 ---
 
