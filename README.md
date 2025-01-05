@@ -1,4 +1,4 @@
-# BusTracking Project
+# Bus Booking and Tracking System
 
 ## Overview
 The **BusTracking Project** aims to modernize the bus booking and journey experience by providing an intuitive and efficient system that simplifies ticket booking and enables real-time bus tracking. This project addresses key pain points of traditional bus booking methods, such as time-consuming processes, lack of real-time information, and uncertainties during the journey.
